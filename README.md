@@ -1,16 +1,25 @@
-# todo_app
+# To-Do List App (Flutter + Firebase)
 
-A new Flutter project.
+A robust To-Do List application built with Flutter, featuring Firebase Authentication and Realtime Database integration via REST API.
 
-## Getting Started
+## 🚀 Features
+- **User Authentication:** Secure Sign-up and Login using Firebase Auth (Email/Password).
+- **Task Management:** Full CRUD operations (Create, Read, Update, Delete).
+- **Real-time Sync:** Tasks are synced to Firebase Realtime Database.
+- **State Management:** Handled efficiently using the **Provider** package.
+- **REST API Integration:** Database interactions are performed using standard REST calls (`http` package).
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technical Stack
+- **Framework:** Flutter (Dart)
+- **State Management:** Provider
+- **Backend:** Firebase (Auth & Realtime DB)
+- **Network:** http package for REST API calls
 
-A few resources to get you started if this is your first Flutter project:
+## 📂 Project Structure
+- `lib/models`: Data structures.
+- `lib/services`: Network logic (Auth & REST API).
+- `lib/providers`: State management.
+- `lib/screens`: UI implementation.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📲 Installation
+You can find the ready-to-install **APK file** in the [Releases section](link-to-your-release-here).
