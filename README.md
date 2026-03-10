@@ -22,4 +22,4 @@ A robust To-Do List application built with Flutter, featuring Firebase Authentic
 - `lib/screens`: UI implementation.
 
 ## 📲 Installation
-You can find the ready-to-install **APK file** in the [Releases section](link-to-your-release-here).
+You can find the ready-to-install **APK file** in the [Releases section](https://github.com/git-Satyajit/flutter-firebase-todo/releases/tag/v1.0.0).
